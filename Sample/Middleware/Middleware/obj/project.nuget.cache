@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "COKjtii4pUMXwgPpvTeec6eccGY/pSuDWZMstPj+67Gguw4Ikdh+x05eMDQZtLVExGDh2N72F9iFnHIosqjVmg==",
+  "success": true,
+  "projectFilePath": "F:\\Learn\\Sample\\Middleware\\Middleware\\Middleware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huy Hoang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

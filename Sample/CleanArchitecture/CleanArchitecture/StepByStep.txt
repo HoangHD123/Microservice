@@ -1,0 +1,7 @@
+1- Create DB
+2- Create Domain Project
+3- Create Application Project with Logic via Interfaces (DatabaseService, Models)
+4- Create Infrastructure Project
+5- Create API Layer
+
+	

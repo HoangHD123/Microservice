@@ -1,0 +1,7 @@
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.AssemblyInfo.cs
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.deps.json
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb

@@ -1,0 +1,38 @@
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\Middleware\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\Middleware\bin\Debug\netcoreapp3.1\appsettings.json
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\Middleware\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\Middleware\bin\Debug\netcoreapp3.1\Middleware.exe
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\Middleware\bin\Debug\netcoreapp3.1\Middleware.runtimeconfig.json
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\Middleware\bin\Debug\netcoreapp3.1\Middleware.runtimeconfig.dev.json
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\Middleware\obj\Debug\netcoreapp3.1\Middleware.MvcApplicationPartsAssemblyInfo.cache
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\Middleware\obj\Debug\netcoreapp3.1\Middleware.RazorTargetAssemblyInfo.cache
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\Middleware\obj\Debug\netcoreapp3.1\staticwebassets\Middleware.StaticWebAssets.Manifest.cache
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\Middleware\obj\Debug\netcoreapp3.1\staticwebassets\Middleware.StaticWebAssets.xml
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\Middleware\obj\Debug\netcoreapp3.1\Middleware.genruntimeconfig.cache
+F:\Learn\Sample\Middleware\Middleware\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Learn\Sample\Middleware\Middleware\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Learn\Sample\Middleware\Middleware\bin\Debug\netcoreapp3.1\Middleware.exe
+F:\Learn\Sample\Middleware\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+F:\Learn\Sample\Middleware\Middleware\bin\Debug\netcoreapp3.1\Middleware.runtimeconfig.json
+F:\Learn\Sample\Middleware\Middleware\bin\Debug\netcoreapp3.1\Middleware.runtimeconfig.dev.json
+F:\Learn\Sample\Middleware\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+F:\Learn\Sample\Middleware\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+F:\Learn\Sample\Middleware\Middleware\obj\Debug\netcoreapp3.1\Middleware.csprojAssemblyReference.cache
+F:\Learn\Sample\Middleware\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+F:\Learn\Sample\Middleware\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+F:\Learn\Sample\Middleware\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+F:\Learn\Sample\Middleware\Middleware\obj\Debug\netcoreapp3.1\Middleware.MvcApplicationPartsAssemblyInfo.cache
+F:\Learn\Sample\Middleware\Middleware\obj\Debug\netcoreapp3.1\staticwebassets\Middleware.StaticWebAssets.Manifest.cache
+F:\Learn\Sample\Middleware\Middleware\obj\Debug\netcoreapp3.1\staticwebassets\Middleware.StaticWebAssets.xml
+F:\Learn\Sample\Middleware\Middleware\obj\Debug\netcoreapp3.1\scopedcss\bundle\Middleware.styles.css
+F:\Learn\Sample\Middleware\Middleware\obj\Debug\netcoreapp3.1\Middleware.RazorTargetAssemblyInfo.cache
+F:\Learn\Sample\Middleware\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+F:\Learn\Sample\Middleware\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
+F:\Learn\Sample\Middleware\Middleware\obj\Debug\netcoreapp3.1\Middleware.genruntimeconfig.cache

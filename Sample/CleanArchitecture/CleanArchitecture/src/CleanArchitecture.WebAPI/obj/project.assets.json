@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CleanArchitecture.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CleanArchitecture.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanArchitecture.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArchitecture.Application.dll": {}
+        }
+      },
+      "CleanArchitecture.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CleanArchitecture.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArchitecture.Domain.dll": {}
+        }
+      },
+      "CleanArchitecture.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CleanArchitecture.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanArchitecture.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArchitecture.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanArchitecture.Application/1.0.0": {
+      "type": "project",
+      "path": "../CleanArchitecture.Application/CleanArchitecture.Application.csproj",
+      "msbuildProject": "../CleanArchitecture.Application/CleanArchitecture.Application.csproj"
+    },
+    "CleanArchitecture.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CleanArchitecture.Domain/CleanArchitecture.Domain.csproj",
+      "msbuildProject": "../CleanArchitecture.Domain/CleanArchitecture.Domain.csproj"
+    },
+    "CleanArchitecture.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../CleanArchitecture.Infrastructure/CleanArchitecture.Infrastructure.csproj",
+      "msbuildProject": "../CleanArchitecture.Infrastructure/CleanArchitecture.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CleanArchitecture.Application >= 1.0.0",
+      "CleanArchitecture.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Huy Hoang\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj",
+      "projectName": "CleanArchitecture.WebAPI",
+      "projectPath": "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj",
+      "packagesPath": "C:\\Users\\Huy Hoang\\.nuget\\packages\\",
+      "outputPath": "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.WebAPI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Huy Hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+              "projectPath": "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+            },
+            "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
+              "projectPath": "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

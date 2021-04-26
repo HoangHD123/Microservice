@@ -1,0 +1,74 @@
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\appsettings.json
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\WebUIMiddleware.exe
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\WebUIMiddleware.deps.json
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\WebUIMiddleware.runtimeconfig.json
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\WebUIMiddleware.runtimeconfig.dev.json
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\WebUIMiddleware.dll
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\WebUIMiddleware.pdb
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\WebUIMiddleware.Views.dll
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\WebUIMiddleware.Views.pdb
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.csprojAssemblyReference.cache
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.AssemblyInfoInputs.cache
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.AssemblyInfo.cs
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.MvcApplicationPartsAssemblyInfo.cache
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.RazorAssemblyInfo.cache
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.RazorAssemblyInfo.cs
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.TagHelpers.input.cache
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.TagHelpers.output.cache
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.RazorCoreGenerate.cache
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.RazorTargetAssemblyInfo.cache
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.RazorTargetAssemblyInfo.cs
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.Views.pdb
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\staticwebassets\WebUIMiddleware.StaticWebAssets.Manifest.cache
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\staticwebassets\WebUIMiddleware.StaticWebAssets.xml
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.dll
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.pdb
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.genruntimeconfig.cache
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.csproj.CopyComplete
+F:\Learn\Sample\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Learn\Sample\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Learn\Sample\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\WebUIMiddleware.exe
+F:\Learn\Sample\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\WebUIMiddleware.deps.json
+F:\Learn\Sample\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\WebUIMiddleware.runtimeconfig.json
+F:\Learn\Sample\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\WebUIMiddleware.runtimeconfig.dev.json
+F:\Learn\Sample\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\WebUIMiddleware.dll
+F:\Learn\Sample\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\WebUIMiddleware.pdb
+F:\Learn\Sample\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\WebUIMiddleware.Views.dll
+F:\Learn\Sample\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\WebUIMiddleware.Views.pdb
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.csprojAssemblyReference.cache
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.AssemblyInfoInputs.cache
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.AssemblyInfo.cs
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.csproj.CoreCompileInputs.cache
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.MvcApplicationPartsAssemblyInfo.cache
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.RazorAssemblyInfo.cache
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.RazorAssemblyInfo.cs
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\staticwebassets\WebUIMiddleware.StaticWebAssets.Manifest.cache
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\staticwebassets\WebUIMiddleware.StaticWebAssets.xml
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebUIMiddleware.styles.css
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.TagHelpers.input.cache
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.TagHelpers.output.cache
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.RazorCoreGenerate.cache
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.RazorTargetAssemblyInfo.cache
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.RazorTargetAssemblyInfo.cs
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.Views.pdb
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.dll
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.pdb
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.genruntimeconfig.cache
+F:\Learn\Sample\Middleware\WebUIMiddleware\obj\Debug\netcoreapp3.1\WebUIMiddleware.csproj.CopyComplete
+F:\Learn\Sample\Middleware\WebUIMiddleware\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
