@@ -60,8 +60,7 @@ namespace CleanArchitecture.Infrastructure.DatabaseServices
             {
                 ProductTypeID = productTypeId
             };
-            var affectedRecords = await conn.ExecuteAsync("DELETE FROM ProductType where ProductTypeID = @ProductTypeID",
-                parameters);
+            var affectedRecords = await conn.ExecuteAsync("DELETE FROM ProductType where ProductTypeID = @ProductTypeID",parameters);
             return affectedRecords > 0;
         }
 

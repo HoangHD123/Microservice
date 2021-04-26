@@ -55,6 +55,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
             "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
               "projectPath": "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
@@ -70,11 +71,23 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }

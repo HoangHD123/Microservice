@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\MSA_Course\\1. Middleware_DI_CleanArchitecture\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {}
+    "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {}
   },
   "projects": {
-    "F:\\MSA_Course\\1. Middleware_DI_CleanArchitecture\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+    "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\MSA_Course\\1. Middleware_DI_CleanArchitecture\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+        "projectUniqueName": "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
         "projectName": "CleanArchitecture.Application",
-        "projectPath": "F:\\MSA_Course\\1. Middleware_DI_CleanArchitecture\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
-        "packagesPath": "C:\\Users\\thanhlet\\.nuget\\packages\\",
-        "outputPath": "F:\\MSA_Course\\1. Middleware_DI_CleanArchitecture\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Application\\obj\\",
+        "projectPath": "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+        "packagesPath": "C:\\Users\\Huy Hoang\\.nuget\\packages\\",
+        "outputPath": "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\thanhlet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Huy Hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,14 +25,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nuget.sitefinity.com/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "F:\\MSA_Course\\1. Middleware_DI_CleanArchitecture\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
-                "projectPath": "F:\\MSA_Course\\1. Middleware_DI_CleanArchitecture\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
+              "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+                "projectPath": "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
               }
             }
           }
@@ -45,6 +45,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -60,24 +61,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\MSA_Course\\1. Middleware_DI_CleanArchitecture\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+    "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\MSA_Course\\1. Middleware_DI_CleanArchitecture\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+        "projectUniqueName": "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
         "projectName": "CleanArchitecture.Domain",
-        "projectPath": "F:\\MSA_Course\\1. Middleware_DI_CleanArchitecture\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
-        "packagesPath": "C:\\Users\\thanhlet\\.nuget\\packages\\",
-        "outputPath": "F:\\MSA_Course\\1. Middleware_DI_CleanArchitecture\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Domain\\obj\\",
+        "projectPath": "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+        "packagesPath": "C:\\Users\\Huy Hoang\\.nuget\\packages\\",
+        "outputPath": "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\thanhlet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Huy Hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -85,11 +86,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nuget.sitefinity.com/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -101,6 +102,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -116,24 +118,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\MSA_Course\\1. Middleware_DI_CleanArchitecture\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
+    "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\MSA_Course\\1. Middleware_DI_CleanArchitecture\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+        "projectUniqueName": "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
         "projectName": "CleanArchitecture.Infrastructure",
-        "projectPath": "F:\\MSA_Course\\1. Middleware_DI_CleanArchitecture\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\thanhlet\\.nuget\\packages\\",
-        "outputPath": "F:\\MSA_Course\\1. Middleware_DI_CleanArchitecture\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\obj\\",
+        "projectPath": "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Huy Hoang\\.nuget\\packages\\",
+        "outputPath": "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\thanhlet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Huy Hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -141,14 +143,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nuget.sitefinity.com/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "F:\\MSA_Course\\1. Middleware_DI_CleanArchitecture\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
-                "projectPath": "F:\\MSA_Course\\1. Middleware_DI_CleanArchitecture\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+              "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+                "projectPath": "F:\\Learn\\Sample\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
               }
             }
           }
@@ -161,6 +163,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Dapper": {
               "target": "Package",
@@ -202,7 +205,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }
